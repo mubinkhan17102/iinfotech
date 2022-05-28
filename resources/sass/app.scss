@@ -1,0 +1,19 @@
+@import '~bootstrap';
+
+.form-control{
+    border-radius: 0px;
+    font-weight: 300;
+    color: lightgray;
+}
+.submitbtn{
+    border-radius: 0px;
+    background-color: #0DBD50;
+}
+.form-label{
+    font-weight: bold;
+    border: none;
+}
+.resultentry{
+    border: 2px solid lightgray;
+    padding: 10px;
+}
